@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1021787587199",
+    "firebase_url": "https://shopclothing-230c9.firebaseio.com",
+    "project_id": "shopclothing-230c9",
+    "storage_bucket": "shopclothing-230c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021787587199:android:670a293ac572d3d6",
+        "android_client_info": {
+          "package_name": "com.example.mherhallproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021787587199-61k369rut33ubhamtc222ssuuh701n3i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWaZ7Xldcr0U66TYTnPZ3BMg7r4xzIL-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021787587199-61k369rut33ubhamtc222ssuuh701n3i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
